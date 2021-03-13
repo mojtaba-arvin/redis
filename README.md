@@ -1,5 +1,4 @@
-# redis
-Simple Redis service
+# Simple Redis Service
 
 ### Setup password
 to set `Redis` password ,just put password value at
